@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  my_model_util:
+    container_name: my_model_util
+    image: local/highwind/my-model:latest
+    #command: tail -F anything
+    command: ["--model_name", "modelLOL"]
+    working_dir: /app
+    ports:
+      - "8080:8080"

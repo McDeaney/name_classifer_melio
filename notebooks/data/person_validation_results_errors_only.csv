@@ -1,0 +1,497 @@
+index,text,your_label,spacy_found_person,spacy_entities,status,confidence,suggestion
+17,PROF. FREDERICK TURNER,Company,True,"[('FREDERICK TURNER', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: FREDERICK TURNER
+23,Kenny Coursor,Company,True,"[('Kenny Coursor', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Kenny Coursor
+28,keeley gabbidon,Company,True,"[('keeley gabbidon', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: keeley gabbidon
+44,ASHBY PIESING,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+48,Mr. Bendite Bayle,Company,True,"[('Bendite Bayle', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Bendite Bayle
+54,MISS PERSONAL DLAMINI,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+105,ADELE FORTUIN,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+108,DR. MARKOS DOWNGATE,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+136,Yehudi Standon,Company,True,"[('Yehudi Standon', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Yehudi Standon
+139,Nompumelelo Lee,Company,True,"[('Nompumelelo Lee', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Nompumelelo Lee
+142,EMMERY BAZELY,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+146,DESIRÉE BOWS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+147,clary brownlow,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+155,Ashby Sidebottom,Company,True,"[('Ashby Sidebottom', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Ashby Sidebottom
+157,Adriaan Africa,Person,False,"[('Adriaan Africa', 'LOC')]",POTENTIAL_ERROR,low,This might not be a PERSON
+160,Mr. rev. brandon fredericks,Company,True,"[('brandon fredericks', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: brandon fredericks
+163,BAREND SEPTEMBER,Person,False,"[('BAREND SEPTEMBER', 'DATE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+182,Dirk Park,Person,False,"[('Dirk Park', 'FAC')]",POTENTIAL_ERROR,low,This might not be a PERSON
+185,rev. neo adams,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+198,katz  Izio linklinks SKYNDU UnLtd,Company,True,"[('katz  ', 'PERSON'), ('SKYNDU UnLtd', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: katz  
+226,Mrs Anita Fredericks,Company,True,"[('Anita Fredericks', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Anita Fredericks
+230,Ntokozo Greeff,Company,True,"[('Ntokozo Greeff', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Ntokozo Greeff
+247,IVAN MABASO,Company,True,"[('IVAN MABASO', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: IVAN MABASO
+255,Stanwood Sammut,Company,True,"[('Stanwood Sammut', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Stanwood Sammut
+287,rodney eliez,Company,True,"[('rodney eliez', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: rodney eliez
+290,TIFF CUMMUNGS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+294,Prof. Carissa Dugget,Company,True,"[('Carissa Dugget', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Carissa Dugget
+301,Jaxnation  Mydo Skipfire Feedfire Corporation,Company,True,"[('Jaxnation  Mydo', 'PERSON'), ('Skipfire Feedfire Corporation', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: Jaxnation  Mydo
+307,julia street,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+349,Dr alexis guiness,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+354,MRS miss karabo mkhabela,Company,True,"[('karabo mkhabela', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: karabo mkhabela
+356,JANEAN HAMMEL,Company,True,"[('JANEAN HAMMEL', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: JANEAN HAMMEL
+364,DR Precious Malema,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+367,DARE SEAMONS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+371,Babalwa Ngobeni,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+380,YOUR DE JAGER,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+387,NATIVIDAD BOLLANDS,Person,False,"[('NATIVIDAD', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+390,FONZIE HARFOOT,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+392,Dr Mr. Desmond Mhlongo,Company,True,"[('Desmond Mhlongo', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Desmond Mhlongo
+407,YOUR MARSHALL,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+411,Cort Canton,Person,False,"[('Cort Canton', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+436,kagiso gounden,Person,False,"[('kagiso gounden', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+468,mén meriguet,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+469,MR WALLIW RAMEY,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+509,BÉRANGÈRE POLHILL,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+514,SINCLAIR DE MITRI,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+517,NEXT EBRAHIM,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+518,MR ATHENA JOIRE,Company,True,"[('ATHENA JOIRE', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: ATHENA JOIRE
+534,personnalisée vido,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+535,sisile geindre,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+538,layo  Avamm CC.,Company,True,"[('layo  Avamm', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: layo  Avamm
+558,sblg options in,Person,False,"[('sblg', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+568,TRACEE ERICSSEN,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+569,Bren Beament,Company,True,"[('Bren Beament', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Bren Beament
+582,morris intl pl,Company,True,"[('morris', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: morris
+587,inv ass man galeqt,Company,True,"[('galeqt', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: galeqt
+595,OLIVIA OTTO,Company,True,"[('OLIVIA OTTO', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: OLIVIA OTTO
+610,Kayveo  Kazio mybuzz Co,Company,True,"[('Kayveo  Kazio', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Kayveo  Kazio
+625,mogamat simelane,Company,True,"[('mogamat simelane', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: mogamat simelane
+637,alan oliver,Company,True,"[('alan oliver', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: alan oliver
+652,Miss dimitry mosson,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+657,Mrs. Prof. Juan Modiba,Company,True,"[('Juan Modiba', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Juan Modiba
+664,Aí Cater,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+672,Thoughtworks  eadel Mydeo devcast Pty,Company,True,"[('eadel Mydeo', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: eadel Mydeo
+680,Rev. Lee-ann Modise,Company,True,"[('Lee-ann Modise', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Lee-ann Modise
+692,EADA FRANKUM,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+696,Photolist  Lda.,Company,True,"[('Lda', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Lda
+723,nonkululeko may,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+738,Eduino Greenroad,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+748,andries basson,Company,True,"[('andries basson', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: andries basson
+758,Maria Ngcobo,Company,True,"[('Maria Ngcobo', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Maria Ngcobo
+762,FULTON RIVEL,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+771,Elvera Keep,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+773,meezzy  LINKLINKS Trunyx Bond,Company,True,"[('meezzy  ', 'PERSON'), ('Trunyx Bond', 'PERSON')]",POTENTIAL_ERROR,high,"This might be a PERSON: meezzy  , Trunyx Bond"
+777,ABRA YEGOROV,Company,True,"[('ABRA YEGOROV', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: ABRA YEGOROV
+781,Dr. Warren Cronje,Company,True,"[('Warren Cronje', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Warren Cronje
+791,david grobler,Company,True,"[('david grobler', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: david grobler
+798,morgan pace,Person,False,"[('morgan', 'DATE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+799,Browsezoom  Pty (Ltd),Person,False,"[('Browsezoom  Pty (Ltd', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+807,mrs. refilwe moloi,Company,True,"[('refilwe moloi', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: refilwe moloi
+818,Prof. melisande bourgeois,Company,True,"[('melisande bourgeois', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: melisande bourgeois
+847,CINÉMA SEATH,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+855,University Of The Visayas,University,True,"[('University Of The Visayas', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: University Of The Visayas
+858,béatrice caris,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+863,Ephrem MacKibbon,Company,True,"[('Ephrem MacKibbon', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Ephrem MacKibbon
+864,Dr contact botha,Company,True,"[('botha', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: botha
+876,Barry Malan,Company,True,"[('Barry Malan', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Barry Malan
+884,MISS CONTACT BEUKES,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+886,meta fewell,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+936,siphokazi nene,Company,True,"[('siphokazi nene', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: siphokazi nene
+970,REALMIX  Janyx rhynoodle SOC.CoL,Person,False,"[('REALMIX  ', 'ORG'), ('Janyx rhynoodle SOC.CoL', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+979,Kanoodle  Tambee SICAV,Company,True,"[('Kanoodle  Tambee', 'PERSON'), ('SICAV', 'PRODUCT')]",POTENTIAL_ERROR,high,This might be a PERSON: Kanoodle  Tambee
+988,Zoomlounge  Tagcat Einti Yombu Jv Co.,Person,False,"[('Tagcat', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+990,MS ABBEY CARD,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+995,AGILIS INTERNATIONAL PTY LTD,Person,False,"[('AGILIS INTERNATIONAL PTY LTD', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+1006,CONCHITA MCGINN,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1008,esme derkes,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1018,Siyabonga Harmse,Company,True,"[('Siyabonga Harmse', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Siyabonga Harmse
+1027,theodoric adrienne,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1030,Personal Human,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1032,RANDOLF KIRRENS,Company,True,"[('RANDOLF KIRRENS', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: RANDOLF KIRRENS
+1058,Miss KUÍ MANNOCK,Company,True,"[('KUÍ MANNOCK', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: KUÍ MANNOCK
+1063,Charmion Lead,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1092,RUÒ JUNE,Person,False,"[('RUÒ JUNE', 'DATE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+1097,LUELLA PLAUNCH,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1122,MISS neil truter,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1131,MS. THANDI WESSELS,Company,True,"[('THANDI WESSELS', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: THANDI WESSELS
+1151,Prof. Pierre Mofokeng,Company,True,"[('Pierre Mofokeng', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Pierre Mofokeng
+1211,Lazz  Talane Yakidoo Demizz Pl,Company,True,"[('Talane Yakidoo', 'PERSON'), ('Demizz Pl', 'PERSON')]",POTENTIAL_ERROR,high,"This might be a PERSON: Talane Yakidoo, Demizz Pl"
+1228,GLORIA LE ROUX,Person,False,"[('GLORIA LE ROUX', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+1254,THABO'S CARS (SOLE PROP AJ  SWANEPOEL),Company,True,"[('THABO', 'ORG'), ('AJ  SWANEPOEL', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: AJ  SWANEPOEL
+1278,SIPHOKAZI ODENDAAL,Company,True,"[('SIPHOKAZI ODENDAAL', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: SIPHOKAZI ODENDAAL
+1283,Acking Man Employee Benefits,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1288,NKOSINATHI VAN TONDER,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1308,PROF. LUCKY DU PLOOY,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1313,Mr Ricardo May,Company,True,"[('Ricardo May', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Ricardo May
+1338,Sr. MATTHEW MANUEL,Company,True,"[('MATTHEW MANUEL', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: MATTHEW MANUEL
+1340,HUMBERTO DIRKIN,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1344,MS MAXIMILIEN DOSSETTOR,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1345,PROF. YOUR HADEBE,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1350,rev. monique white,Company,True,"[('monique white', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: monique white
+1363,miss thandi simelane,Company,True,"[('thandi simelane', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: thandi simelane
+1364,MAËLY CHADD,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1372,GEVEE  Meevee CC.,Company,True,"[('GEVEE  Meevee', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: GEVEE  Meevee
+1374,Bryan Adam,Company,True,"[('Bryan Adam', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Bryan Adam
+1380,Mrs. Vikky Date,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1384,MICHAIL CULHAM,Company,True,"[('MICHAIL CULHAM', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: MICHAIL CULHAM
+1385,CLOÉ BRU,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1392,SIBUSISO DA SILVA,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1412,rhys evans am mwpb01,Company,True,"[('rhys evans', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: rhys evans
+1421,mandla mashigo,Company,True,"[('mandla mashigo', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: mandla mashigo
+1424,MAËLLE REINMAR,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1425,MRS BRUCE UYS,Company,True,"[('BRUCE UYS', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: BRUCE UYS
+1452,béatrice dansie,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1465,Léonore Fradson,Company,True,"[('Léonore Fradson', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Léonore Fradson
+1470,DR ben pillay,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1471,Cléopatre Erangey,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1507,Mrs. Lungile Cooper,Company,True,"[('Lungile Cooper', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Lungile Cooper
+1517,Timmy Rendle,Company,True,"[('Timmy Rendle', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Timmy Rendle
+1542,Debbie Otto,Company,True,"[('Debbie Otto', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Debbie Otto
+1544,derek furnival,Company,True,"[('derek furnival', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: derek furnival
+1575,VICTORIA MOONSAMY,Company,True,"[('VICTORIA MOONSAMY', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: VICTORIA MOONSAMY
+1584,MRS Tasneem Conradie,Company,True,"[('Tasneem Conradie', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Tasneem Conradie
+1593,HELEN NTOMBELA,Company,True,"[('HELEN NTOMBELA', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: HELEN NTOMBELA
+1603,Trudy Mungan,Company,True,"[('Trudy Mungan', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Trudy Mungan
+1618,NTHABISENG SWART,Person,False,"[('NTHABISENG', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+1634,MS TÁN TICKSALL,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1635,Pixope  yambee oyondu divanoodle Family Trust,Company,True,"[('Pixope  yambee', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Pixope  yambee
+1639,miss vusi marais,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1647,Riffwire  DEMIMBU Centidel Inc.,Person,False,"[('Riffwire  DEMIMBU Centidel Inc.', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+1648,Mrs. Jonas MacGinley,Company,True,"[('Jonas MacGinley', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Jonas MacGinley
+1649,CAREL VISAGIE,Company,True,"[('CAREL VISAGIE', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: CAREL VISAGIE
+1656,MAÏLY GLAZYER,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1662,ETAGA INFORMATION TECHNOLOGY,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1663,styrbjörn constant,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1664,GÉRALDINE HEAPS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1666,Skyba  Shuffletag Photobean Jv Co.,Company,True,"[('Skyba  Shuffletag', 'PERSON'), ('Photobean Jv Co.', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: Skyba  Shuffletag
+1668,BRYN KENNHAM,Company,True,"[('BRYN KENNHAM', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: BRYN KENNHAM
+1695,Sr. gabriel enslin,Company,True,"[('gabriel enslin', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: gabriel enslin
+1697,Bérangère Gyppes,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1700,MERRILY FORDER,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1719,TILDY ROBET,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1733,garth buys,Person,False,"[('garth', 'WORK_OF_ART')]",POTENTIAL_ERROR,low,This might not be a PERSON
+1742,Aubrey Dube,Company,True,"[('Aubrey Dube', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Aubrey Dube
+1754,cullen clair,Company,True,"[('cullen clair', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: cullen clair
+1773,antoinette lourens,Company,True,"[('antoinette lourens', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: antoinette lourens
+1775,pincus baldung,Company,True,"[('pincus baldung', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: pincus baldung
+1789,Béatrice Isaksen,Company,True,"[('Béatrice Isaksen', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Béatrice Isaksen
+1796,Riaan Park,Person,False,"[('Riaan Park', 'FAC')]",POTENTIAL_ERROR,low,This might not be a PERSON
+1808,TRACY PRINSLOO,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1820,Uta Dybell,Company,True,"[('Uta Dybell', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Uta Dybell
+1826,YOLANDI MOAGI,Person,False,"[('YOLANDI MOAGI', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+1829,amabel langford,Company,True,"[('amabel langford', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: amabel langford
+1832,JACKIE TURNER,Company,True,"[('JACKIE TURNER', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: JACKIE TURNER
+1833,jamia  quinu thoughtmix S.P.,Company,True,"[('jamia  quinu', 'PERSON'), ('thoughtmix S.P.', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: jamia  quinu
+1836,DR. nicola potgieter,Company,True,"[('nicola potgieter', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: nicola potgieter
+1846,Dr. Thandi Mncube,Company,True,"[('Thandi Mncube', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Thandi Mncube
+1847,Futures Dealing,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1851,Thandi Morris,Company,True,"[('Thandi Morris', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Thandi Morris
+1852,simona casarini,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1873,Mrs. Lizelle Masuku,Company,True,"[('Lizelle Masuku', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Lizelle Masuku
+1875,Inès Wiper,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1889,CIRILLO ROWES,Person,False,"[('CIRILLO', 'WORK_OF_ART')]",POTENTIAL_ERROR,low,This might not be a PERSON
+1891,Fan Eglise,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1894,DR. kobus vorster,Company,True,"[('kobus vorster', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: kobus vorster
+1903,Jean Liebenberg,Company,True,"[('Jean Liebenberg', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Jean Liebenberg
+1926,SERGEI FROUDE,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1954,eamia  Yadel PTE,Company,True,"[('eamia  Yadel', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: eamia  Yadel
+1955,dumisani le roux,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1967,PIM Seed Stable Fund Grindrod,Company,True,"[('PIM Seed Stable Fund', 'ORG'), ('Grindrod', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Grindrod
+1968,ingrid van heerden,Company,True,"[('ingrid van heerden', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: ingrid van heerden
+1969,ROY MLAMBO,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1970,SIGISMOND LARKINS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+1973,Jatri  Quinu Layo Zoombeat Pty,Company,True,"[('Jatri  Quinu', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Jatri  Quinu
+1983,thomas mcclymond,Company,True,"[('thomas mcclymond', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: thomas mcclymond
+1997,NKOSINATHI REDDY,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2002,GAYE DITCH,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2009,Dr Börje Mann,Company,True,"[('Börje Mann', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Börje Mann
+2020,DR. PERSONAL BEUKES,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2025,Lungile Burger,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2046,sandor macgiany,Company,True,"[('sandor macgiany', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: sandor macgiany
+2061,Uò Eagles,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2066,Alica Marousek,Company,True,"[('Alica Marousek', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Alica Marousek
+2067,Bettye Dufton,Company,True,"[('Bettye Dufton', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Bettye Dufton
+2070,Rhynyx  LIVEZ Bubblebox Pl,Company,True,"[('Rhynyx  LIVEZ', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Rhynyx  LIVEZ
+2075,harald g cc,Company,True,"[('harald g cc', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: harald g cc
+2099,nico joseph,Company,True,"[('nico joseph', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: nico joseph
+2103,Teboho Du Plooy,Person,False,"[('Teboho Du Plooy', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2107,ELROY NICKLESS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2119,KANYA BURDYTT,Company,True,"[('KANYA BURDYTT', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: KANYA BURDYTT
+2156,ADDIA PURCHES,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2159,THÉRÈSE WONFOR,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2166,Skipfire  Flashdog quinu Pty,Company,True,"[('Skipfire  Flashdog', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Skipfire  Flashdog
+2168,Alexander Natiive Nominees (Proprietary)Limited,Company,True,"[('Alexander Natiive', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Alexander Natiive
+2175,Miss VUSI MAHOMED,Company,True,"[('VUSI', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: VUSI
+2176,Your Neethling,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2179,YOUFEED  Yacero Aimbo Ltd,Company,True,"[('Yacero Aimbo Ltd', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Yacero Aimbo Ltd
+2183,Dà Silvester,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2184,GIDEON WOLMARANS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2190,MR Nonkululeko Africa,Company,True,"[('Nonkululeko', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Nonkululeko
+2198,CHLOÉ GRUND,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2218,twitterlist  Yodel Vinte photospace L.L.P,Company,True,"[('Yodel Vinte', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Yodel Vinte
+2221,Chatterpoint  Wikido Bubblemix Bond,Company,True,"[('Wikido Bubblemix Bond', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Wikido Bubblemix Bond
+2227,SELLO PRETORIUS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2232,BULELWA XULU,Person,False,"[('BULELWA XULU', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2237,TEODORICO FEATONBY,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2239,Amélie Vail,Company,True,"[('Amélie Vail', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Amélie Vail
+2244,Tsholofelo Makhubela,Company,True,"[('Tsholofelo Makhubela', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Tsholofelo Makhubela
+2248,Lazzy  mynte divavu Chatterbridge & Co.,Company,True,"[('Lazzy  mynte', 'PERSON'), ('Chatterbridge & Co.', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: Lazzy  mynte
+2262,clo fydo,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2269,MAËLYSS LUDEWIG,Company,True,"[('MAËLYSS LUDEWIG', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: MAËLYSS LUDEWIG
+2270,Sello Van Staden,Company,True,"[('Sello Van Staden', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Sello Van Staden
+2277,WILLAMINA SHITLIFFE,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2283,TO DU PLESSIS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2294,RICHMOND ROSTHORN,Company,True,"[('RICHMOND ROSTHORN', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: RICHMOND ROSTHORN
+2309,Alison Labuschagne,Company,True,"[('Alison Labuschagne', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Alison Labuschagne
+2321,busisiwe zulu,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2345,DR maëly varsey,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2348,Skyndu  rooxo Pl,Company,True,"[('Skyndu  rooxo Pl', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Skyndu  rooxo Pl
+2360,miss roxane gumb,Company,True,"[('roxane gumb', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: roxane gumb
+2361,Sr. Sifiso Geldenhuys,Company,True,"[('Sifiso Geldenhuys', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Sifiso Geldenhuys
+2373,babalwa hall,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2376,Fivebridge  BUBBLEMIX MYNTE BROWSEBLAB Proprietary Limited,Person,False,"[('Fivebridge  ', 'ORG'), ('BUBBLEMIX MYNTE BROWSEBLAB Proprietary Limited', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2377,Sr. PHUMZILE BRITS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2382,CLÉMENTINE UNGERER,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2389,publicité solman,Person,False,"[('publicité solman', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2395,Mr. MRS. SAMANTHA MKHWANAZI,Company,True,"[('SAMANTHA MKHWANAZI', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: SAMANTHA MKHWANAZI
+2406,PRECIOUS HOFFMAN,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2410,hon. etienne johnson,Company,True,"[('etienne johnson', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: etienne johnson
+2417,Youopia  Flashpoint gabtype & Co,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2427,SONNY ERWIN,Company,True,"[('SONNY ERWIN', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: SONNY ERWIN
+2429,TAGFEED  plajo BABBLEBLAB vinte Co.,Person,False,"[('TAGFEED  ', 'ORG'), ('BABBLEBLAB vinte Co.', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2437,abc mining and industrial supplies cc,Person,False,"[('abc mining and industrial supplies', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2461,DRU TICKSALL,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2471,PROF. MARTIN TWALA,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2484,Vernon Kok,Company,True,"[('Vernon Kok', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Vernon Kok
+2489,YOUR TSOTETSI,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2493,AMANDA GOODSHIP,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2495,Tshepo Bouwer,Company,True,"[('Tshepo Bouwer', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Tshepo Bouwer
+2508,Blogtags  Linktype Yozio Co.,Company,True,"[('Yozio Co.', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Yozio Co.
+2516,Browsecat  Realblab YODO Blognation Bond,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2521,SHIRLEY BEUKES,Company,True,"[('SHIRLEY BEUKES', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: SHIRLEY BEUKES
+2527,BGC RESOURCES INC,Person,False,"[('BGC RESOURCES INC', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2534,Mr. your hall,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2541,feedfish  Cogibox Family Trust,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2544,Rockwell Aston,Person,False,"[('Rockwell Aston', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2549,Pelaran Capitals Plc,Person,False,"[('Pelaran Capitals Plc', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2551,Mrs MARGARET BEZUIDENHOUT,Company,True,"[('MARGARET BEZUIDENHOUT', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: MARGARET BEZUIDENHOUT
+2566,Gabvine  Centizu TOPICZOOM Youopia PTY (LTD).,Company,True,"[('Gabvine  Centizu', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Gabvine  Centizu
+2567,DR. RONALD VAN HEERDEN,Company,True,"[('RONALD VAN HEERDEN', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: RONALD VAN HEERDEN
+2570,ESTÉE GARLETTE,Company,True,"[('ESTÉE GARLETTE', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: ESTÉE GARLETTE
+2584,jaxspan  Fund,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2586,Rochelle Healthcare,Person,False,"[('Rochelle Healthcare', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2621,next allie,Company,True,"[('allie', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: allie
+2624,wayne roux,Company,True,"[('wayne roux', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: wayne roux
+2629,rhycero  Youfeed Company,Person,False,"[('rhycero  Youfeed Company', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2633,ms. lebohang park,Person,False,"[('lebohang park', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2654,meedoo  TAZZ Latz Jv Co.,Company,True,"[('meedoo', 'PERSON'), ('Latz Jv Co.', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: meedoo
+2657,LYDIA EVANS,Person,False,"[('LYDIA EVANS', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2658,wanooka busses pl,Company,True,"[('wanooka busses pl', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: wanooka busses pl
+2664,Wordtune  realcube Jayo Youbridge Fd,Company,True,"[('Jayo Youbridge', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Jayo Youbridge
+2669,EAZZY  LEENTI Meedoo CAMIDO C.C.,Company,True,"[('EAZZY  ', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: EAZZY  
+2676,NEVILLE DETAILS,Person,False,"[('NEVILLE', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2679,MISS DUMISANI DE VILLIERS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2683,Zondra Janos,Company,True,"[('Zondra Janos', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Zondra Janos
+2694,MISS NOMPUMELELO MOODLEY,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2696,SALOMÉ KEAST,Person,False,"[('SALOMÉ KEAST', 'LOC')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2721,Mr debra ilsley,Company,True,"[('debra ilsley', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: debra ilsley
+2731,Dù Smogur,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2743,lorène crayk,Company,True,"[('lorène crayk', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: lorène crayk
+2745,Sello Ngobeni,Company,True,"[('Sello Ngobeni', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Sello Ngobeni
+2776,lizelle nieuwoudt,Company,True,"[('lizelle nieuwoudt', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: lizelle nieuwoudt
+2782,Mr BAIL EWERS,Company,True,"[('BAIL EWERS', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: BAIL EWERS
+2784,Yabox  EAYO Avamm PHOTOJAM Bond,Company,True,"[('Yabox  EAYO', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Yabox  EAYO
+2785,Andries Meyer,Company,True,"[('Andries Meyer', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Andries Meyer
+2786,Léana Dobeson,Company,True,"[('Léana Dobeson', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Léana Dobeson
+2789,Mr Dr. Martha Schmidt,Company,True,"[('Martha Schmidt', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Martha Schmidt
+2809,Mr buffy clinning,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2810,ELÉA DENZILOE,Company,True,"[('ELÉA DENZILOE', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: ELÉA DENZILOE
+2827,Dr Dr. Debbie Fredericks,Company,True,"[('Debbie Fredericks', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Debbie Fredericks
+2831,cynthia naidu,Company,True,"[('cynthia naidu', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: cynthia naidu
+2846,Chantelle Mabunda,Company,True,"[('Chantelle Mabunda', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Chantelle Mabunda
+2848,NICK MUNYAI,Company,True,"[('NICK MUNYAI', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: NICK MUNYAI
+2851,Nicolette Jordaan,Company,True,"[('Nicolette Jordaan', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Nicolette Jordaan
+2853,mynte  YAKIJO Browsedrive Jaxbean Pty,Company,True,"[('mynte  YAKIJO', 'PERSON'), ('Jaxbean Pty', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: mynte  YAKIJO
+2856,Photobean  KAYVEO Yakitri Pty,Company,True,"[('KAYVEO Yakitri', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: KAYVEO Yakitri
+2866,HON. BABALWA ROBERTS,Company,True,"[('BABALWA ROBERTS', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: BABALWA ROBERTS
+2876,wheeler haughian,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2877,marlyn hawkshaw,Company,True,"[('marlyn hawkshaw', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: marlyn hawkshaw
+2881,nicolaas boshoff,Company,True,"[('nicolaas boshoff', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: nicolaas boshoff
+2890,Next Campbell,Company,True,"[('Campbell', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Campbell
+2891,robow business consul c c,Company,True,"[('c c', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: c c
+2892,edvard moss,Person,False,"[('edvard', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2896,Prof. Ntokozo Moloi,Company,True,"[('Ntokozo Moloi', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Ntokozo Moloi
+2898,inge skentelbery,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2904,Jessica Brand,Company,True,"[('Jessica Brand', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Jessica Brand
+2916,Sr. Nosipho Mchunu,Company,True,"[('Nosipho Mchunu', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Nosipho Mchunu
+2929,Candice Samuels,Company,True,"[('Candice Samuels', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Candice Samuels
+2933,Herman and Julie Clothing Pl,Company,True,"[('Herman', 'PERSON'), ('Julie', 'PERSON')]",POTENTIAL_ERROR,high,"This might be a PERSON: Herman, Julie"
+2938,SMITH CORNELISSE,Person,False,"[('SMITH CORNELISSE', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2952,NÉHÉMIE DRIVER,Person,False,"[('NÉHÉMIE', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+2957,MS DANETTE TRETHOWAN,Company,True,"[('DANETTE TRETHOWAN', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: DANETTE TRETHOWAN
+2965,MISS bécassine ortells,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+2975,Madelyn Albarez,Company,True,"[('Madelyn Albarez', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Madelyn Albarez
+2978,MRS Dr. Simphiwe Miller,Company,True,"[('Simphiwe Miller', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Simphiwe Miller
+2980,STEPHENIE KILLIAM,Company,True,"[('STEPHENIE KILLIAM', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: STEPHENIE KILLIAM
+2987,Takalani John,Company,True,"[('Takalani John', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Takalani John
+3009,Thandeka Jacobs,Company,True,"[('Thandeka Jacobs', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Thandeka Jacobs
+3014,Truda Works,Person,False,"[('Truda Works', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3015,Pénélope Scardefield,Company,True,"[('Pénélope Scardefield', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Pénélope Scardefield
+3017,Bert Cheshire,Company,True,"[('Bert Cheshire', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Bert Cheshire
+3022,barbara modise,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3054,Fanoodle  Photolist Layo thoughtmix A.S.,Company,True,"[('Layo thoughtmix', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Layo thoughtmix
+3070,LORINE THROUGHTON,Company,True,"[('LORINE THROUGHTON', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: LORINE THROUGHTON
+3075,CONNIE TENAUNT,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3077,QUATZ  BABBLESET Fd,Company,True,"[('QUATZ  BABBLESET', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: QUATZ  BABBLESET
+3084,Tannie Tranfield,Company,True,"[('Tannie Tranfield', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Tannie Tranfield
+3123,JULIANA CHAIM,Company,True,"[('JULIANA CHAIM', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: JULIANA CHAIM
+3135,TRUDEO  topicstorm JV,Company,True,"[('JV', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: JV
+3142,gasper green,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3162,Prof. Nompumelelo Sibiya,Company,True,"[('Nompumelelo Sibiya', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Nompumelelo Sibiya
+3166,Trilith  EDGETAG Fd,Company,True,"[('Trilith  EDGETAG', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Trilith  EDGETAG
+3174,Dynava  Flashspan DABLIST voomm Ltd,Person,False,"[('Dynava', 'ORG'), ('DABLIST', 'ORG'), ('voomm Ltd', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3175,FIKILE GOUNDEN,Company,True,"[('FIKILE GOUNDEN', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: FIKILE GOUNDEN
+3177,NICOL FLACKNOE,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3185,ESTEBAN MCPARTLIN,Company,True,"[('ESTEBAN MCPARTLIN', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: ESTEBAN MCPARTLIN
+3188,LAETITIA TILT,Person,False,"[('LAETITIA', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3190,Eléa Bigly,Company,True,"[('Eléa Bigly', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Eléa Bigly
+3194,BRITTA BONNEY,Person,False,"[('BRITTA BONNEY', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3201,Desiree Brits,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3217,NICOLAAS LOURENS,Person,False,"[('NICOLAAS', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3232,cléopatre zannuto,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3234,Personnalisée Grafhom,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3236,Sr. Johann Mkhwanazi,Company,True,"[('Johann Mkhwanazi', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Johann Mkhwanazi
+3249,TOPICBLAB  Skinder mydo Fd,Company,True,"[('mydo Fd', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: mydo Fd
+3265,Cassey Itzkovich,Company,True,"[('Cassey Itzkovich', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Cassey Itzkovich
+3270,Cléopatre Dickin,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3274,ARETHA MERIT,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3275,WHITNEY MARCOME,Person,False,"[('WHITNEY', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3285,ALOÏS NOAKES,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3290,THABISO ROSSOUW,Person,False,"[('THABISO ROSSOUW', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3316,CÉLESTINE SPRULLS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3324,odella shallow,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3333,Roodel  skipfire JV,Company,True,"[('Roodel', 'ORG'), ('JV', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: JV
+3349,Personal Fortuin,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3360,MISS IAN LOTTERING,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3361,Muxo  Pl,Company,True,"[('Muxo  Pl', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Muxo  Pl
+3376,ANAËL WINBORN,Person,False,"[('ANAËL WINBORN', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3380,MISS Natividad Goodliff,Person,False,"[('Natividad Goodliff', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3398,danielle koekemoer,Company,True,"[('danielle koekemoer', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: danielle koekemoer
+3410,teboho street,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3422,Ms. Zandile Mabena,Company,True,"[('Zandile Mabena', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Zandile Mabena
+3445,yú o'hannen,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3446,Babblestorm  Mita trilith SICAV,Person,False,"[('SICAV', 'PRODUCT')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3463,CONSTANTIA SCOTTS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3471,DORALIN O'SCULLY,Company,True,"[(""DORALIN O'SCULLY"", 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: DORALIN O'SCULLY
+3472,DR märta mcgaughey,Company,True,"[('mcgaughey', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: mcgaughey
+3475,Martin Robinson,Company,True,"[('Martin Robinson', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Martin Robinson
+3477,nicolene ntshangase,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3513,MERRILEE SOAPER,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3523,DR Miss Tumelo Lewis,Company,True,"[('Tumelo Lewis', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Tumelo Lewis
+3558,Dean Henning,Company,True,"[('Dean Henning', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Dean Henning
+3560,Hon. Nomfundo Mavuso,Company,True,"[('Nomfundo Mavuso', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Nomfundo Mavuso
+3567,Mandi Aizikovich,Company,True,"[('Mandi Aizikovich', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Mandi Aizikovich
+3570,MONA GUILLE,Person,False,"[('MONA GUILLE', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3571,Louis Pietersma,Company,True,"[('Louis Pietersma', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Louis Pietersma
+3603,RAYMOND MAY,Person,False,"[('RAYMOND MAY', 'DATE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3611,Dabjam  Eare Fadeo Lda.,Company,True,"[('Dabjam  Eare Fadeo Lda', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Dabjam  Eare Fadeo Lda
+3641,Mr. LANGSDON DEAVES,Company,True,"[('LANGSDON', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: LANGSDON
+3643,MYLÈNE RATE,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3646,BÉRANGÈRE RASH,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3666,ELÉONORE SCRIVENER,Person,False,"[('ELÉONORE', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3667,your ismail,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3668,TALANE  Gabtune DYNAZZY Brainsphere PLLC.,Company,True,"[('TALANE  Gabtune', 'PERSON'), ('Brainsphere PLLC', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: TALANE  Gabtune
+3673,mill colliss,Company,True,"[('mill colliss', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: mill colliss
+3684,MS dave human,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3706,artemas mathieu,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3709,béatrice aspinal,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3710,Dazzlesphere  Pixope Funds,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3721,SANDER DONO,Company,True,"[('SANDER DONO', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: SANDER DONO
+3731,Demizz  GABVINE Pl,Company,True,"[('Demizz  GABVINE', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Demizz  GABVINE
+3746,NOZIPHO FORTUIN,Company,True,"[('NOZIPHO FORTUIN', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: NOZIPHO FORTUIN
+3754,Dr. PROF. ANTON NAIDOO,Company,True,"[('ANTON NAIDOO', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: ANTON NAIDOO
+3756,MIDEL  Bond,Company,True,"[('MIDEL  Bond', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: MIDEL  Bond
+3761,SIPHOKAZI DANIELS,Company,True,"[('SIPHOKAZI DANIELS', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: SIPHOKAZI DANIELS
+3768,Thoughtstorm  Flashpoint Ainyx ZOOMBOX C.C.,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3785,ZANDRA CANAS,Person,False,"[('ZANDRA CANAS', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3786,JANYX  VINTE edgeclub Tagopia Stg,Company,True,"[('JANYX  VINTE', 'PERSON'), ('Tagopia Stg', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: JANYX  VINTE
+3795,Prudential Trading,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3798,PATRICIA LOTTERING,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3811,Mr. MS. ABIGAIL HATTINGH,Company,True,"[('ABIGAIL HATTINGH', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: ABIGAIL HATTINGH
+3812,Ms. Julie Jordaan,Company,True,"[('Julie Jordaan', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Julie Jordaan
+3817,Miss Waly Bartelet,Company,True,"[('Waly Bartelet', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Waly Bartelet
+3838,Edward Gumede,Company,True,"[('Edward Gumede', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Edward Gumede
+3841,sibongile marx,Company,True,"[('sibongile marx', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: sibongile marx
+3857,Jazzy  CAMIDO Meevee Incorporated,Company,True,"[('Jazzy  CAMIDO', 'PERSON'), ('Meevee Incorporated', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: Jazzy  CAMIDO
+3862,bucky henric,Company,True,"[('bucky henric', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: bucky henric
+3867,Divanoodle  Trilia Lda.,Company,True,"[('Trilia Lda', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Trilia Lda
+3868,LYNETTE FRANCIS,Person,False,"[('LYNETTE FRANCIS', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3876,Thapelo Greyling,Company,True,"[('Thapelo Greyling', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Thapelo Greyling
+3881,Miss Douglas Mokoena,Company,True,"[('Douglas Mokoena', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Douglas Mokoena
+3893,Town Schneidar,Person,False,"[('Schneidar', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3901,edgetag  Riffpedia Kwideo Skyba PTY LTD,Person,False,"[('edgetag', 'ORG'), ('Riffpedia', 'ORG'), ('Kwideo Skyba PTY LTD', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+3903,Vuyokazi Van Der Merwe,Company,True,"[('Vuyokazi Van Der Merwe', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Vuyokazi Van Der Merwe
+3910,Meevee  Devbug GMBH Co.,Company,True,"[('Meevee  Devbug', 'PERSON'), ('GMBH Co.', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: Meevee  Devbug
+3925,sly champley,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3932,Kabelo De Jager,Company,True,"[('Kabelo De Jager', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Kabelo De Jager
+3934,hazel rayburn,Company,True,"[('hazel rayburn', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: hazel rayburn
+3945,tish lambirth,Company,True,"[('tish lambirth', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: tish lambirth
+3959,HILARY SNAR,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+3967,gloria bouwer,Company,True,"[('gloria bouwer', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: gloria bouwer
+4013,Fallen Leaves Property Dev Co Pl,Company,True,"[('Fallen', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Fallen
+4022,INNOTYPE  Wordify Yakitri Lda.,Company,True,"[('Yakitri Lda', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Yakitri Lda
+4044,shurlock lorkings,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4046,Onfroi Veld,Company,True,"[('Onfroi Veld', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Onfroi Veld
+4051,cassandra hamp,Company,True,"[('cassandra hamp', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: cassandra hamp
+4054,Refiloe Zondi,Company,True,"[('Refiloe Zondi', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Refiloe Zondi
+4070,BUSISIWE MOTSEPE,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4079,"rajamangala university of technology, lanna chiang rai",University,True,"[('rajamangala university of technology', 'ORG'), ('lanna chiang rai', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: lanna chiang rai
+4094,BERNADETTE FEARNSIDES,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4108,MELISSA SOULE,Company,True,"[('MELISSA SOULE', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: MELISSA SOULE
+4114,eabox  Associates,Person,False,"[('eabox  ', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+4116,Cull Baxstar,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4120,Wá Pleasance,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4130,Dr. Cecilia Van Tonder,Company,True,"[('Cecilia Van Tonder', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Cecilia Van Tonder
+4136,AIME FELLS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4143,Miss Tán Bruyntjes,Company,True,"[('Tán Bruyntjes', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Tán Bruyntjes
+4145,personal naicker,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4148,MR Corny Murdy,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4152,meeveo  CC,Company,True,"[('meeveo  CC', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: meeveo  CC
+4159,EVAN AND SONS FOOTWEAR INDUSTRY LTD,Company,True,"[('EVAN', 'PERSON'), ('FOOTWEAR INDUSTRY LTD', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: EVAN
+4164,Nhlanhla Dube,Company,True,"[('Nhlanhla Dube', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Nhlanhla Dube
+4166,KISSIAH RICIOPPO,Person,False,"[('KISSIAH RICIOPPO', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+4179,MÉN BARRACKS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4182,Dr. PERSONAL MADLALA,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4186,ZOOMBOX  VIDOO Gabtype AVAMBA Fund of Funds,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4198,personnalisée blacker,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4199,thandi street,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4211,Trilia  Skinte LLC.,Person,False,"[('Trilia  Skinte LLC', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+4225,LUIGI STONARY,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4227,Mrs Barend Buthelezi,Company,True,"[('Barend Buthelezi', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Barend Buthelezi
+4239,Rebus Babra Ltd,Company,True,"[('Rebus Babra Ltd', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Rebus Babra Ltd
+4247,your liebenberg,Person,False,"[('liebenberg', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+4252,innocent scheepers,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4256,Dr. Jaco September,Company,True,"[('Jaco September', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Jaco September
+4270,TRACY GIORGIETTO,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4275,Sr. alexander msibi,Company,True,"[('alexander msibi', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: alexander msibi
+4298,Prof. Palesa Bothma,Company,True,"[('Palesa Bothma', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Palesa Bothma
+4301,Tavu  mymm devshare PTY LTD.,Company,True,"[('Tavu  mymm', 'PERSON'), ('devshare PTY LTD', 'ORG')]",POTENTIAL_ERROR,high,This might be a PERSON: Tavu  mymm
+4318,MRS ian kekana,Company,True,"[('ian kekana', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: ian kekana
+4322,HEIDI SCHOLTZ,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4324,Phumzile September,Person,False,"[('September', 'DATE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+4333,Mr. hilton hanratty,Company,True,"[('hilton', 'PERSON'), ('hanratty', 'PERSON')]",POTENTIAL_ERROR,high,"This might be a PERSON: hilton, hanratty"
+4336,viva  Devify Teklist Inc,Company,True,"[('viva  Devify Teklist Inc', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: viva  Devify Teklist Inc
+4342,Dennis Collins,Company,True,"[('Dennis Collins', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Dennis Collins
+4348,Aubrie Janusik,Company,True,"[('Aubrie Janusik', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Aubrie Janusik
+4369,TSHEPISO NEL,Person,False,"[('TSHEPISO NEL', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+4412,MOISES CRAISE,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4423,Ms. Dimakatso Mitchell,Company,True,"[('Dimakatso Mitchell', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Dimakatso Mitchell
+4425,TEBOGO ELS,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4431,arogon bci bond fd,Person,False,"[('arogon bci', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+4433,Bruce Hoffman,Company,True,"[('Bruce Hoffman', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Bruce Hoffman
+4445,jackie miller,Company,True,"[('jackie miller', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: jackie miller
+4461,BLUE SKY LEISURE DEVELOPMENTS (PTY) LTD,Person,False,"[('BLUE SKY LEISURE DEVELOPMENTS (PTY) LTD', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+4470,Botswabo Cc,Company,True,"[('Botswabo Cc', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Botswabo Cc
+4473,personal tladi,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4474,MS UNATHI ARENDSE,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4486,maéna hunt,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4498,MARIE-JOSÉE ROWSEL,Company,True,"[('MARIE-JOSÉE ROWSEL', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: MARIE-JOSÉE ROWSEL
+4505,MAÏLY CHAPIER,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
+4506,KGOMOTSO GREEN,Person,False,"[('KGOMOTSO', 'GPE')]",POTENTIAL_ERROR,low,This might not be a PERSON
+4508,Refilwe Brand,Person,False,"[('Refilwe Brand', 'ORG')]",POTENTIAL_ERROR,low,This might not be a PERSON
+4510,FIKILE NDEBELE,Company,True,"[('FIKILE NDEBELE', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: FIKILE NDEBELE
+4511,Fikile Ndebele,Company,True,"[('Fikile Ndebele', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Fikile Ndebele
+4512,Fikile M Ndebele,Company,True,"[('Fikile M Ndebele', 'PERSON')]",POTENTIAL_ERROR,high,This might be a PERSON: Fikile M Ndebele
+4515,DUFF FORRE,Person,False,[],POTENTIAL_ERROR,medium,This might not be a PERSON
