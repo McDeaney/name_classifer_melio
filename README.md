@@ -102,11 +102,11 @@ Considerations:
 |  ORG |  0.58 | 0.81  |  0.68  | 569  |
 |   PERSON |  0.98   |  0.88    | 0.93  |  3455  |
     
-    - Organization Subtype Accuracy: 0.3726
+  - Organization Subtype Accuracy: 0.3726
 
 |   |   precision | recall   |  f1-score | support  |
 |---|---|---|---|---|
-|  COMPANY   |  0.93  0.34   | 0.50   |  473  |   |
+|  COMPANY   |  0.93    |  0.34   |  0.50  | 473  |
 |  UNIVERSITY  | 0.78   | 0.52  |  0.62  |   96 |
  
   - For the api using kserve had to adjust dockerfile and some of the inheherited code from kserve.
